@@ -6577,12 +6577,6 @@
 		"defname": "BionicWorkbench"
 	},
 	{
-		"abr": "birthcontrol",
-		"price": 17,
-		"category": "Drugs",
-		"defname": "BirthControl"
-	},
-	{
 		"abr": "blackhiveinsectjelly",
 		"price": 15,
 		"category": "Animal products",
@@ -6605,12 +6599,6 @@
 		"price": 417,
 		"category": "Animal",
 		"defname": "AA_BlackSpelopede"
-	},
-	{
-		"abr": "blackboard",
-		"price": 358,
-		"category": "Production",
-		"defname": "Blackboard"
 	},
 	{
 		"abr": "blackspider",
@@ -7277,12 +7265,6 @@
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "AA_RottingMoundItem"
-	},
-	{
-		"abr": "fertilitybooster",
-		"price": 25,
-		"category": "Drugs",
-		"defname": "FertilityBooster"
 	},
 	{
 		"abr": "fishingboat",
@@ -8461,12 +8443,6 @@
 		"defname": "VFE_Pottery"
 	},
 	{
-		"abr": "pregnancytest",
-		"price": 12,
-		"category": "Drugs",
-		"defname": "PregnancyTest"
-	},
-	{
 		"abr": "propanebag",
 		"price": 1,
 		"category": "Alien raw fish",
@@ -8795,12 +8771,6 @@
 		"price": 129,
 		"category": "Misc",
 		"defname": "VFE_Scarecrow"
-	},
-	{
-		"abr": "schooltable",
-		"price": 281,
-		"category": "Production",
-		"defname": "SchoolTable"
 	},
 	{
 		"abr": "scroll",
@@ -9389,7 +9359,7 @@
 		"price": 542,
 		"category": "Production",
 		"defname": "RimWriter_TableWriting"
-	}
-	],
+	},
+	]
 	"total": 1767
 }

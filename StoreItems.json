@@ -4898,7 +4898,7 @@
 	},
 	{
 		"abr": "shellfishmeat",
-		"price": 0,
+		"price": 3,
 		"category": "Vegetarian",
 		"defname": "TKKN_ShellfishMeat"
 	},
@@ -8468,7 +8468,7 @@
 	},
 	{
 		"abr": "propanebag",
-		"price": 0,
+		"price": 1,
 		"category": "Alien raw fish",
 		"defname": "VCEF_PropaneBag"
 	},

@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -62,7 +52,7 @@
 	},
 	{
 		"abr": "flashstorm",
-		"price": 400,
+		"price": 750,
 		"karmatype": "Bad"
 	},
 	{
@@ -77,7 +67,7 @@
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 500,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -107,8 +97,8 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 150,
-		"karmatype": "Good"
+		"price": 400,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "wandererjoins",
@@ -127,7 +117,7 @@
 	},
 	{
 		"abr": "tradercaravan",
-		"price": 275,
+		"price": 900,
 		"karmatype": "Good"
 	},
 	{
@@ -137,7 +127,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -172,7 +162,7 @@
 	},
 	{
 		"abr": "farmanimals",
-		"price": 400,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
@@ -183,7 +173,7 @@
 	{
 		"abr": "rarethrumbos",
 		"price": 500,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "shipchunkdrop",
@@ -198,11 +188,11 @@
 	{
 		"abr": "visitorgroup",
 		"price": 200,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "skillincrease",
-		"price": 200,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -287,7 +277,7 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -298,7 +288,7 @@
 	{
 		"abr": "trait",
 		"price": 450,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "removetrait",
@@ -336,5 +326,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 67
+	"total": 65
 }

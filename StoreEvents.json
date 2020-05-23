@@ -12,7 +12,7 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 650,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -101,11 +101,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "wandererjoins",
-		"price": 6000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -129,11 +124,6 @@
 		"abr": "meteor",
 		"price": 500,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 6000,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -162,11 +152,6 @@
 	},
 	{
 		"abr": "farmanimals",
-		"price": 800,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
 		"price": 800,
 		"karmatype": "Good"
 	},
@@ -217,7 +202,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -227,7 +212,7 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -272,12 +257,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "pawn",
-		"price": 10000,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -297,7 +277,7 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 450,
+		"price": 100,
 		"karmatype": "Neutral"
 	},
 	{
@@ -316,15 +296,10 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "torytalkervote",
-		"price": 750,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 65
+	"total": 60
 }
